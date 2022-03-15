@@ -1,2 +1,5 @@
-# battleship
-Battleship
+# Battleship
+### Battleship Game
+
+Live Demo:  
+https://deanwagner.github.io/battleship/
